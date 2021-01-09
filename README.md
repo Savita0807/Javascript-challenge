@@ -1,7 +1,8 @@
 # Javascript-challenge
 
 Website links: https://savita0807.github.io/Javascript-challenge/UFO-level-1/
-	       https://savita0807.github.io/Javascript-challenge/UFO-level-2/	
+
+Bonus link: https://savita0807.github.io/Javascript-challenge/UFO-level-2/	
 
 ## Background
 
