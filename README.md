@@ -1,8 +1,8 @@
-# Javascript-challenge
+# UFO-data-analysis-Javascript-challenge
 
-Website links: https://savita0807.github.io/Javascript-challenge/UFO-level-1/
+Website links: https://savita0807.github.io/UFO-data-analysis/UFO-level-1/index.html
 
-Bonus link: https://savita0807.github.io/Javascript-challenge/UFO-level-2/	
+Bonus link: https://savita0807.github.io/UFO-data-analysis/UFO-level-2/index.html	
 
 ## Background
 
